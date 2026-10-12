@@ -9,6 +9,7 @@ Dokumentasi setup lab Linux pada laptop lama (Lenovo IdeaPad S210, i3-3217U, 4 G
 | [01 - Ventoy dan Instalasi Debian](01-ventoy-instalasi-debian.md) | Spesifikasi, flashdisk Ventoy, persiapan Windows (dual boot), instalasi Debian, pengaturan awal, troubleshooting `sudo` |
 | [02 - WiFi dan NetworkManager](02-wifi-networkmanager.md) | Diagnosa WiFi (Atheros AR9565 / `ath9k`), perbaikan WiFi pada instalasi tanpa desktop |
 | [03 - SSH dan Firewall (UFW)](03-ssh-ufw.md) | SSH server, SSH key, UFW, daftar kesalahan umum, langkah berikutnya |
+| [04 - Hardening SSH dan Nginx](04-hardening-ssh-nginx.md) | Rapikan UFW, hardening SSH, instalasi nginx, panduan hardening nginx |
 
 ## Lingkungan
 

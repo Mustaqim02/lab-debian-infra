@@ -106,4 +106,5 @@ sudo ufw reset
 
 ---
 
-Sebelumnya: [Bagian 2: WiFi dan NetworkManager](02-wifi-networkmanager.md)
+Sebelumnya: [Bagian 2: WiFi dan NetworkManager](02-wifi-networkmanager.md)  
+Lanjut ke: [Bagian 4: Hardening SSH dan Nginx](04-hardening-ssh-nginx.md)
